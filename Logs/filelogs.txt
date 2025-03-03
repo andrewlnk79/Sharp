@@ -1,7 +1,0 @@
-2025-03-02 13:34:27.8606|DEBUG|TestLog.Program|Debug
-2025-03-02 13:34:27.8825|INFO|TestLog.Program|Info
-2025-03-02 13:35:00.9256|INFO|TestLog.Program|Info
-2025-03-02 13:35:00.9460|DEBUG|TestLog.Program|Debug
-2025-03-02 13:36:02.2242|ERROR|TestLog.Program|Hello World!
-2025-03-02 13:36:02.2449|INFO|TestLog.Program|Info
-2025-03-02 13:36:02.2449|DEBUG|TestLog.Program|Debug
